@@ -8,7 +8,7 @@
 ```dataview
 TASK
 FROM "每日记录"
-WHERE tags AND file.ctime <= date(today)
+WHERE tags AND file.ctime >= date(sow)
 ```
 
 ---

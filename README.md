@@ -2,6 +2,9 @@
 
 ## Daily Journal
 
+[2023-03-05] - v0.0.1
+- 在每日记录的任务筛选部分，只筛选本周新创建的任务
+
 [2023-02-28] - initial
 - 标题为：`2023年2月28日｜Tuesday` 样式
 - 顶部首先使用 Templater 插件插入一个基本的信息表格和一个每日 quote，参考 DIYgod 的博客：[基于 Obsidian 的生活记录系统](https://diygod.me/obsidian)
